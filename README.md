@@ -75,6 +75,7 @@ helpful extension to YARA developed and open-sourced by Bayshore Networks.
 * [Symantec](http://www.symantec.com)
 * [Tanium](http://www.tanium.com/)
 * [The DigiTrust Group](http://www.digitrustgroup.com/)
+* [BSK Consulting GmbH](https://www.bsk-consulting.de/apt-scanner-thor/)
 * [ThreatConnect](http://www.threatconnect.com)
 * [ThreatStream, Inc.](http://threatstream.com)
 * [Thug](https://github.com/buffer/thug)
