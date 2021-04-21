@@ -30,6 +30,8 @@ portions of your file and create signatures based on those results.
     the process address space. The returned value is a float between 0 and 1.
     *offset* and *size* are optional; if left empty, the complete file is searched.
 
+    *Example: stats.percentage("^") >= 0.3*
+
     *Example: stats.percentage("[", 0, filesize) >= 0.4*
 
 .. c:function:: mode(offset, size)
